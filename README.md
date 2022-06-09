@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Pyspark
 - 💞️ I’m looking to collaborate on projects for Data Engineering
-- 📫 How to reach me +918439874664
+- 📫 How to reach me mekuber1997@gmail.com
 
 <!---
 kuber1997/kuber1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
